@@ -1,0 +1,174 @@
+https://www.reddit.com/r/PoGoAndroidSpoofing
+
+-------------------------------------------
+EVENT Coordinates v4
+
+
+-------------------------------------------
+
+GMT +14:15
+
+This is the first starting region. It always starts 15 minutes after event start time. For example, if Community Day starts at 11:00 am local time, for this region, it will start at 11:15 am local time. For all other time zones, it will start at exactly XX:00 with sometimes a few minutes late start.
+
+    1.987150,-157.477140 = Kiritimati 
+
+    For big ticket events, this area is not recommended because it is small.
+
+GMT +13:00
+
+    -13.831357,-171.766401 = Fagalii, Samoa 
+
+    For big ticket events, this area is not recommended because it is small.
+
+GMT +12:00
+
+    -41.282492,174.769136 = Wellington, New Zealand 
+
+    -36.850269, 174.764787 = Auckland, New Zealand 
+
+
+GMT +11:00
+
+    53.055392,158.640700 = Kamchatka, Russia 
+
+GMT +10:00
+
+    -33.8642,151.217819 = Royal Botanical Gardens - Sydney, Australia 
+
+GMT +09:00
+
+    -27.47464, 153.03015 = Brisbane, Australia 
+
+GMT +8:00
+
+    35.7153,139.7734 = Ueno Park - Toyko, Japan 
+
+    37.51118,127.098289 = Lotte World Mall - Seoul, South Korea 
+
+GMT +7:00
+
+    1.284702,103.864685 = Gardens by the Bay, Singapore 
+
+    25.060395, 121.479347 = Xingfu Shuiyang Park - New Taipei City, Taiwan 
+
+    23.001974,120.211591 = Tainan Park - Tainan City, Taiwan
+
+GMT +6:00
+
+    10.787823, 106.705146 = Saigon Zoo and Botanical Garden, Vietnam 
+
+    13.733653,100.497029 = Bangkok, Thailand 
+
+GMT +5:00
+
+    22.342149,91.831227 = Chittagong, Bangladesh 
+
+GMT +4:30
+
+    18.516053,73.85205 = Maharashtra, Pune, India 
+
+GMT +4:00
+
+    37.8863,58.38313 = Ashgabat, Turkmenistan 
+
+GMT +3:00
+
+    25.26713,55.29020 = Dubai, United Arab Emirates 
+
+GMT +2:00
+
+    55.702397,37.529742 = Moscow Sate University, Moscow, Russia 
+
+    -1.285969,36.821399 = Nairobi, Kenya 
+
+GMT +1:00
+
+    -26.153395, 28.003530 = Botanical Gardens, Johannesburg, South Africa 
+
+    -33.925128,18.421489 = Cape Town, South Africa 
+
+GMT +0:00
+
+    47.530032,19.050646 = Margaret Island, Budapest, Hungry 
+
+    41.66254,-0.892912 = Zaragoza, Spain 
+
+GMT -1:00
+
+    53.192303,-2.892419 = Chester, United Kingdom 
+
+    41.5319676,-8.6155779 = Barcelos, Portugal 
+
+    28.489400, -16.316166 = "New Zaragoza" = San Cristobal de La Laguna, Spain [NEW]
+
+GMT -2:00
+
+    14.917709,-23.508672 = Praia, Cape Verde 
+
+GMT -3:00
+
+    -54.284932,-36.507141 = South Georgia Island 
+
+GMT -4:00
+
+    -23.5874162,-46.6576336 = Ibirapuera Park, Sao Paulo, Brazil 
+
+    -34.608403,-58.372164 = Buenos Aires, Argentina 
+
+    -2.555031,-44.306470 = Brazil, Maranhao - Universidade Federal do Maranhao
+
+    -26.892929, -49.229217 = Clusters of Pokestops, Santa Catarina, Brazil [NEW] 
+
+GMT -5:00
+
+    18.471900,-69.911380 = Santo Domingo, Dominican Republic 
+
+GMT -6:00
+
+    40.781532,-73.965547 = Central Park, New York, USA 
+
+    40.753792, -73.983576 = New York, New York - Bryant Park
+
+    28.415972,-81.580934 = Disneyland, Orlando, Florida, USA 
+
+GMT -7:00
+
+    19.432622,-99.133201 = Mexico City, Mexico 
+
+    41.891726, -87.598845 = Navy Pier, Chicago, Illinois, USA 
+
+    30.274223,-97.740733 = Austin, Texas, USA 
+
+GMT -8:00
+
+    53.543033,-113.488838 = Edmonton, Canada 
+
+    35.085182,-106.649917 = Albuquerque, New Mexico, USA 
+
+    39.739215,-104.990295 = Denver, Colorado, USA 
+
+GMT -9:00
+
+    34.007634,-118.499623 = Santa Monica Pier, California, USA 
+
+    37.80892,-122.409977 = Pier 39, San Francisco, USA 
+
+    36.116226,-115.174499 = Caesar’s Palace Vegas, Nevada, USA 
+
+GMT -10:00
+
+    61.217674,-149.893249 = Anchorage, Alaska, USA 
+
+GMT -11:00
+
+    21.270607,-157.816608 = Honolulu Downtown Area, Hawaii, USA 
+
+    21.270890, -157.819290 = Honolulu Zoo Park, Honolulu, Hawaii, USA
+
+    -17.531142, -149.564874 = Pira'e Area in Tahiti, Pape'ete, French Polynesia 
+
+GMT -12:00 >>> Last Event area <<<
+
+    -14.278595,-170.688862 = Pago Pago, American Samoa 
+
+    28.20611,-177.34287 = Midway Island (3 stops) 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="Pier 39 Grind" version="1.1" creator="RahulNeverland">
+	<trk>
+		<name>0</name>
+		<trkseg>
+			<trkpt lat="37.808734" lon="-122.409707">
+			</trkpt>
+			<trkpt lat="37.809260" lon="-122.409761">
+			</trkpt>
+			<trkpt lat="37.809642" lon="-122.410227">
+			</trkpt>
+			<trkpt lat="37.809778" lon="-122.410630">
+			</trkpt>
+			<trkpt lat="37.810190" lon="-122.410649">
+			</trkpt>
+			<trkpt lat="37.810537" lon="-122.410321">
+			</trkpt>
+			<trkpt lat="37.811184" lon="-122.410199">
+			</trkpt>
+			<trkpt lat="37.811176" lon="-122.410916">
+			</trkpt>
+			<trkpt lat="37.810916" lon="-122.411363">
+			</trkpt>
+			<trkpt lat="37.810572" lon="-122.411009">
+			</trkpt>
+			<trkpt lat="37.808599" lon="-122.410172">
+			</trkpt>
+			<trkpt lat="37.808465" lon="-122.409400">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
